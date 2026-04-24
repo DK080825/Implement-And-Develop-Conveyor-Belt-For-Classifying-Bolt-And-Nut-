@@ -1,7 +1,6 @@
 # 🔩 Bolt/Nut Sorting Conveyor System
 > Real-time object detection and classification using YOLO v11n + STM32
 
-![System Banner](images/system_overview.png)
 
 ---
 
@@ -68,10 +67,6 @@ System Demo Video: https://drive.google.com/file/d/1v_gmj9hhoSi-2w5wkao2kqqGc-dJ
 | Camera | USB 1080p, 30 FPS, 70–110° FOV |
 | GPU (PC) | RTX 3050Ti (YOLO inference) |
 
-### Wiring Diagram
-
-![Wiring Diagram](images/wiring_diagram.png)
-<!-- 🖼️ INSERT: Schematic or wiring diagram -->
 
 ---
 
